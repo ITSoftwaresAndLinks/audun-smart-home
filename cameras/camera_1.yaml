@@ -1,0 +1,5 @@
+# Camera 1
+platform: mjpeg
+name: CAM cuisine
+still_image_url: http://192.168.1.221/snapshot.jpg
+mjpeg_url: http://192.168.1.221/videostream.cgi

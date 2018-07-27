@@ -1,0 +1,5 @@
+# Camera 2
+platform: mjpeg
+name: CAM bureau
+still_image_url: http://192.168.1.222/snapshot.jpg
+mjpeg_url: http://192.168.1.222/videostream.cgi

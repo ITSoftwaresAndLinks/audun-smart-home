@@ -1,0 +1,164 @@
+# Tracked devices
+
+7c6d6272db64:
+  hide_if_away: false
+  icon: mdi:desktop-mac
+  mac: 7C:6D:62:72:DB:64
+  name: iMac 27 W
+  picture:
+  track: false
+  vendor: Apple, Inc.
+
+d49a20d14f0e:
+  hide_if_away: false
+  icon: mdi:desktop-mac
+  mac: D4:9A:20:D1:4F:0E
+  name: iMac 27 E
+  picture:
+  track: false
+  vendor: Apple, Inc.
+
+1040f382f360:
+  hide_if_away: false
+  icon: mdi:laptop-mac
+  mac: 10:40:F3:82:F3:60
+  name: MacBook Air
+  picture:
+  track: false
+  vendor: Apple, Inc.
+
+84b153bee279:
+  hide_if_away: false
+  icon: mdi:cellphone-iphone
+  mac: 84:B1:53:BE:E2:79
+  name: Jurij
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+a46706a08f36:
+  hide_if_away: false
+  icon: mdi:tablet-ipad
+  mac: A4:67:06:A0:8F:36
+  name: iPad 2
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+# Untracked devices
+
+e45d51599860:
+  hide_if_away: false
+  icon: 
+  mac: E4:5D:51:59:98:60
+  name: SFR Decoder
+  picture:
+  track: false
+  vendor: SFR
+
+705681c4df22:
+  hide_if_away: false
+  icon: mdi:router-wireless
+  mac: 70:56:81:C4:DF:22
+  name: Airport Base Station
+  picture:
+  track: false
+  vendor: Apple, Inc.
+
+70ee501a6026:
+  hide_if_away: false
+  icon: mdi:thermostat-box
+  mac: 70:EE:50:1A:60:26
+  name: Netatmo Thermostat
+  picture:
+  track: false
+  vendor: Netatmo
+
+54bd7975fc96:
+  hide_if_away: false
+  icon: mdi:television
+  mac: 54:BD:79:75:FC:96
+  name: Samsung TV
+  picture:
+  track: false
+  vendor: Samsung Electronics Co.,Ltd
+
+# Unknown devices
+7c2edd8af5d1:
+  hide_if_away: false
+  icon: mdi:cellphone-android
+  mac: 7C:2E:DD:8A:F5:D1
+  name: Maman
+  picture:
+  track: true
+  vendor:
+
+e45d517e4738:
+  hide_if_away: false
+  icon: mdi:router-wireless
+  mac: E4:5D:51:7E:47:38
+  name: SFR Box
+  picture:
+  track: false
+  vendor: SFR
+
+94103e41ec49:
+  hide_if_away: false
+  icon: 
+  mac: 94:10:3E:41:EC:49
+  name: WEMO ?
+  picture:
+  track: false
+  vendor:
+
+0641711137da:
+  hide_if_away: false
+  icon: mdi:android
+  mac: 06:41:71:11:37:DA
+  name: TV Box
+  picture:
+  track: false
+  vendor: 
+
+001143305888:
+  hide_if_away: false
+  icon: mdi:cctv
+  mac: 00:11:43:30:58:88 
+  name: CAM Cusine
+  picture:
+  track: true
+  vendor:
+
+0011433054db:
+  hide_if_away: false
+  icon: mdi:cctv
+  mac: 00:11:43:30:54:db 
+  name: CAM Bureau
+  picture:
+  track: true
+  vendor:
+
+# New devices
+080027b3d7ab:
+  hide_if_away: false
+  icon: mdi:help
+  mac: 08:00:27:B3:D7:AB
+  name: Old Home Assistant
+  picture:
+  track: false
+
+jurij_iphone:
+  hide_if_away: false
+  icon:
+  mac:
+  name: jurij
+  picture:
+  track: true
+
+maman_samsung:
+  hide_if_away: false
+  icon:
+  mac:
+  name: maman
+  picture:
+  track: true

@@ -1,0 +1,15 @@
+switch.chauffage_sdb:
+  config_entry_id:
+  name:
+  platform: wemo
+  unique_id: 221551K120006A
+sensor.iphone_5s_de_jurij_acalinovic_battery_state:
+  config_entry_id:
+  name:
+  platform: ios
+  unique_id: 'state_iPhone Jurij '
+sensor.iphone_5s_de_jurij_acalinovic_battery_level:
+  config_entry_id:
+  name:
+  platform: ios
+  unique_id: 'level_iPhone Jurij '
