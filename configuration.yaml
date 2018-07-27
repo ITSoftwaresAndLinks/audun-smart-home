@@ -96,13 +96,6 @@ cloud:
 # Climate:
 #  - platform: netatmo
 
-# Samsung Smart TV
-media_player 1:
-  - platform: samsungtv
-    host: 192.168.1.99
-    port: 8001
-    name: TV Salon
-
 # Device tracker
 #device_tracker:
 #  - platform: nmap_tracker
@@ -117,6 +110,7 @@ media_player 1:
 
 #switch: !include_dir_list switches
 #camera: !include_dir_list cameras
+#medias: !include_dir_list medias
 
 group: !include groups.yaml
 automation: !include automations.yaml
